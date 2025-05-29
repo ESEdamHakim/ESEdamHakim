@@ -5,8 +5,8 @@
 </div>
 
 ## 🙋‍♂️ About Me:
-- 💻 Proficient in *C*, *C++*, *SQL*, *PHP*, *HTML*, *CSS*, and *JavaScript*
-- 🔭 Currently developing a *web application* focused on real-world functionality and design
+- 💻 Proficient in *C*, *C++*, *SQL*, *PHP*, *HTML*, *CSS*, and *JavaScript*.
+- 🔭 Currently developing a *web application* focused on real-world functionality and design.
 - 👨‍💻 All of my projects are available at *[My Repository](https://github.com/ESEdamHakim?tab=repositories)*.
 - 📫 Reach me at *[edam.hakim@outlook.com](mailto:edam.hakim@outlook.com)* or on *[LinkedIn](https://www.linkedin.com/in/edamhakim/)*.
 
